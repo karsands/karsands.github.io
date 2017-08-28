@@ -1,3 +1,6 @@
+<p>This site is open source. {% github_edit_link "Improve this page" %}</p>
+
+
 Hello World
 
 I'm here
